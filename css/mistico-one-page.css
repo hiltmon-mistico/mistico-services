@@ -88,6 +88,10 @@ ul li:hover a {
 	font-weight: bold;
 	color: #EEEEEE;
 }
+.strong {
+  font-weight: bold;
+  color: #717070;
+}
 .tagline {
 	text-align: center;
 	color: #FFFFFF;
